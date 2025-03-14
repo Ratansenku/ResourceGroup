@@ -1,3 +1,1 @@
-variable "resource_group" {
-  default = {}
-}
+variable "resource_group" {}
